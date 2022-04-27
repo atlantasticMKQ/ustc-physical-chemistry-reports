@@ -1,0 +1,17 @@
+32574	TiS SUB (1/32573)	1	12/29/2020	5:48:09 PM	Optical Rotation	数据有效	cjq-35-inf	-0.4096	32.12	Administrator
+32575	TiS SUB (2/32573)	2	12/29/2020	5:48:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3961	33.19	Administrator
+32576	TiS SUB (3/32573)	3	12/29/2020	5:49:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3918	33.86	Administrator
+32577	TiS SUB (4/32573)	4	12/29/2020	5:49:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3893	34.33	Administrator
+32578	TiS SUB (5/32573)	5	12/29/2020	5:50:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3899	34.55	Administrator
+32579	TiS SUB (6/32573)	6	12/29/2020	5:50:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3903	34.69	Administrator
+32580	TiS SUB (7/32573)	7	12/29/2020	5:51:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3906	34.78	Administrator
+32581	TiS SUB (8/32573)	8	12/29/2020	5:51:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3909	34.84	Administrator
+32582	TiS SUB (9/32573)	9	12/29/2020	5:52:06 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3911	34.89	Administrator
+32583	TiS SUB (10/32573)	10	12/29/2020	5:52:36 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3911	34.93	Administrator
+32584	TiS SUB (11/32573)	11	12/29/2020	5:53:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3914	34.96	Administrator
+32585	TiS SUB (12/32573)	12	12/29/2020	5:53:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3915	34.98	Administrator
+32586	TiS SUB (13/32573)	13	12/29/2020	5:54:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3917	35.00	Administrator
+32587	TiS SUB (14/32573)	14	12/29/2020	5:54:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3921	35.01	Administrator
+32588	TiS SUB (15/32573)	15	12/29/2020	5:55:07 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3923	35.01	Administrator
+32589	TiS SUB (16/32573)	16	12/29/2020	5:55:37 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3927	35.02	Administrator
+32590	TiS SUB (17/32573)	17	12/29/2020	5:56:06 PM	Optical Rotation	数据有效	cjq-35-inf	-0.3930	35.02	Administrator

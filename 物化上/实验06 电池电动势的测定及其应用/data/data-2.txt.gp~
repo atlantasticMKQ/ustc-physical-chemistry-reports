@@ -1,0 +1,7 @@
+set t png
+set term png font '/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc,10'
+set output "E-T.png"
+set title '电动势温度曲线'
+set ylabel "E(V)"
+set xlabel "T(K)"
+plot '1.txt' using 1:3 w lp pt 7, '组成沸点.txt' using 2:3 w lp pt 7

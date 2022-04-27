@@ -1,0 +1,51 @@
+
+
+*******************************************************************************
+Tue Oct 27 23:30:10 2020
+
+
+FIT:    data read from 'data.txt'
+        format = z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: y(x)
+	y(x)=kx+b
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Oct 27 23:30:17 2020
+
+
+FIT:    data read from 'data.txt'
+        format = z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: y(x)
+	y(x)=k*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   k             b            
+   0 1.6737145869e+05   0.00e+00  1.20e+02    1.000000e+00   1.000000e+00
+   5 1.8340997803e+00  -2.43e-01  1.20e-03    2.127996e-02   7.088372e-01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.8341
+rel. change during last iteration : -2.42631e-06
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.677145
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.458525
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 0.02128          +/- 0.0037       (17.39%)
+b               = 0.708837         +/- 0.6304       (88.93%)
+
+correlation matrix of the fit parameters:
+                k      b      
+k               1.000 
+b              -0.899  1.000 

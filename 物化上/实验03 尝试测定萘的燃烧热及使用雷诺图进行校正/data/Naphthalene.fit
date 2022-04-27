@@ -1,0 +1,57 @@
+gnuplot> fit y(x) '萘前300.txt' via k,b      
+iter      chisq       delta/lim  lambda   k             b            
+   0 8.0767310735e+00   0.00e+00  6.76e+00    7.064034e-05   9.556582e+00
+   1 1.0638114985e-03  -7.59e+08  6.76e-01    7.064395e-05   9.720378e+00
+   2 1.0323975239e-03  -3.04e+03  6.76e-02    7.086504e-05   9.720618e+00
+   3 8.6567862077e-04  -1.93e+04  6.76e-03    7.725728e-05   9.719656e+00
+   4 8.5047097691e-04  -1.79e+03  6.76e-04    7.984658e-05   9.719266e+00
+   5 8.5047072738e-04  -2.93e-02  6.76e-05    7.985711e-05   9.719265e+00
+iter      chisq       delta/lim  lambda   k             b            
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.000850471
+rel. change during last iteration : -2.93407e-07
+
+degrees of freedom    (FIT_NDF)                        : 298
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00168936
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.85393e-06
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+k               = 7.98571e-05      +/- 1.126e-06    (1.41%)
+b               = 9.71926          +/- 0.0001956    (0.002012%)
+
+correlation matrix of the fit parameters:
+                k      b      
+k               1.000 
+b              -0.867  1.000 
+
+gnuplot> fit g(x) '萘后300.txt' via l,c
+iter      chisq       delta/lim  lambda   l             c            
+   0 3.9160389603e+01   0.00e+00  7.80e+00    6.048294e-06   1.103203e+01
+   1 4.1016011044e-04  -9.55e+09  7.80e-01    6.048465e-06   1.140402e+01
+   2 2.8743621315e-04  -4.27e+04  7.80e-02    6.047221e-06   1.140468e+01
+   3 2.8237391827e-04  -1.79e+03  7.80e-03    5.924213e-06   1.140488e+01
+   4 1.0801597275e-04  -1.61e+05  7.80e-04    1.312973e-07   1.141439e+01
+   5 5.8330176499e-05  -8.52e+04  7.80e-05   -4.979681e-06   1.142277e+01
+   6 5.8326308558e-05  -6.63e+00  7.80e-06   -5.025171e-06   1.142285e+01
+   7 5.8326308558e-05  -7.95e-08  7.80e-07   -5.025175e-06   1.142285e+01
+iter      chisq       delta/lim  lambda   l             c            
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 5.83263e-05
+rel. change during last iteration : -7.95242e-13
+
+degrees of freedom    (FIT_NDF)                        : 280
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000456408
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.08308e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+l               = -5.02518e-06     +/- 3.339e-07    (6.644%)
+c               = 11.4228          +/- 0.0005484    (0.004801%)
+
+correlation matrix of the fit parameters:
+                l      c      
+l               1.000 
+c              -0.999  1.000 

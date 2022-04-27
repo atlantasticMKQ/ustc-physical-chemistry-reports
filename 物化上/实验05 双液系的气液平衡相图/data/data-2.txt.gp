@@ -1,0 +1,7 @@
+set t png
+set term png font '/usr/share/fonts/noto-cjk/NotoSansCJK-Regular.ttc,10'
+set output "气液相组成-沸点曲线.png"
+set title '气液相组成-沸点曲线'
+set ylabel "沸点"
+set xlabel "正丙醇摩尔分数"
+plot '组成沸点.txt' using 1:3 w lp pt 7, '组成沸点.txt' using 2:3 w lp pt 7
