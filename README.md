@@ -40,3 +40,7 @@ style=\"text-decoration:underline;\">" "</span>")
 
 ## 关于texlive的配置
 如果你用的是Archlinux, 只需用pacman把texlive开头的包装个七七八八就ok了，如果是windows,macos啥的，八仙过海各显神通吧。
+
+## 关于最后的分数
+3.3x2
+
